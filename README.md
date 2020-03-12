@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/vvvidhya4/AzDevops/_apis/build/status/vidhya-valsala.-pipelines-java?branchName=master)](https://dev.azure.com/vvvidhya4/AzDevops/_build/latest?definitionId=1&branchName=master)
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
